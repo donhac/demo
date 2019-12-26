@@ -1,0 +1,19 @@
+{
+  "appKey": "kTroceFr4jLWJ6zcS3QAaUa887w6ki2N",
+  "appSecret": "zxAE211lJuGSrjIAmMO4vFVhJpyjmrlY",
+  "projectId": "cf01a308878cfb9713a6086dfb63e5ff",
+  "id": 274,
+  "name": "demo",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/donhac/demo.git",
+    "isPrivate": 0,
+    "username": "donhac@qq.com",
+    "password": "hudong520"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
